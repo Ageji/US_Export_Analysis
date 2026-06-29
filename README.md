@@ -12,6 +12,10 @@ The main goals of this project were to:
 - Explore trends in financing over time.
 - Build an interactive dashboard that helps users answer business questions quickly.
 
+  ### Dashboard Link
+[US Export Financing Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjRhYTcwOGUtMmJmZC00ZjI0LTljNmQtOGIwMmUzNmY0NWI1IiwidCI6IjI5MjhmYzE3LTAyYjktNGM2OC1iNGJkLWJlY2MwNzAxMmUzMiJ9)
+  
+
   ### About the Dataset
 The dataset contains historical records of U.S. export financing transactions. Each record includes information such as:
 Fiscal year
